@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1668087295 source:c:\users\rodri\downloads\carlos_rodrigo_colque\nueva carpeta\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<cstdlib>
+	<windows.h>
+	<limits>
+	"cargarCadena.h"
+	"claseFecha.h"
+	"clasePelicula.h"
+	"codigoPeliculas.h"
+	"claseProductos.h"
+	"codigoProductos.h"
+	"claseCompras.h"
+	"claseCompraDetalle.h"
+	"codigoCompras.h"
+	"CodigoVentas.h"
+	"Reportes.h"
+
+1667378224 c:\users\rodri\downloads\carlos_rodrigo_colque\nueva carpeta\cargarcadena.h
+
+1668067693 c:\users\rodri\downloads\carlos_rodrigo_colque\nueva carpeta\clasefecha.h
+
+1668071611 c:\users\rodri\downloads\carlos_rodrigo_colque\nueva carpeta\clasepelicula.h
+	"claseFecha.h"
+	"cargarCadena.h"
+
+1668064272 c:\users\rodri\downloads\carlos_rodrigo_colque\nueva carpeta\codigopeliculas.h
+
+1668071611 c:\users\rodri\downloads\carlos_rodrigo_colque\nueva carpeta\claseproductos.h
+
+1668064344 c:\users\rodri\downloads\carlos_rodrigo_colque\nueva carpeta\codigoproductos.h
+
+1668071611 c:\users\rodri\downloads\carlos_rodrigo_colque\nueva carpeta\clasecompras.h
+	"clasePelicula.h"
+	"claseProductos.h"
+	"codigoPeliculas.h"
+	"codigoProductos.h"
+	"claseFecha.h"
+	"cargarCadena.h"
+
+1668071611 c:\users\rodri\downloads\carlos_rodrigo_colque\nueva carpeta\clasecompradetalle.h
+	"claseProductos.h"
+	"codigoProductos.h"
+	"claseFecha.h"
+	"cargarCadena.h"
+	"claseCompras.h"
+
+1668070370 c:\users\rodri\downloads\carlos_rodrigo_colque\nueva carpeta\codigocompras.h
+	"claseCompras.h"
+	"cargarCadena.h"
+	"clasePelicula.h"
+	"claseProductos.h"
+
+1668063407 c:\users\rodri\downloads\carlos_rodrigo_colque\nueva carpeta\codigoventas.h
+
+1668089735 c:\users\rodri\downloads\carlos_rodrigo_colque\nueva carpeta\reportes.h
+
